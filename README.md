@@ -1,5 +1,5 @@
 # Projet-publication-numerique
-Une introduction aux études cinématographiques
+<u>Une introduction aux études cinématographiques</u>
 
 Ce travail a été effectué dans le cadre du cours "Publication numérique" donné au semestre d'automne 2019 à l'université de Lausanne. Le projet que j'ai mené pour ce travail consistait à améliorer, "valoriser" mes notes personnelles prises aux cours de cinéma donnés par Valentine Robert et Benoît Turquety lors de l'années académique 2016-17. Le but de ce travail était d'illustrer avec des exemples (vidéos, captures d'écran) et d'expliciter certaines notions du monde cinématographique qui peuvent, de prime abord, paraitre obscures ou peu compréhensibles aux personnes qui ne sont pas familières avec ce milieu.
 
